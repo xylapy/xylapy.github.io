@@ -7,5 +7,5 @@ I am currently interested in software development, with my main languages being 
 <img src="IMG_8453.png" width="132"><img src="IMG_8454.png" width="132"><img src="IMG_8455.png" width="132">
 
 # Links
-- [X (f.k.a. Twitter)](https://x.com/@Xylapy)
+- [𝕏 (f.k.a. Twitter)](https://x.com/@Xylapy)
 - [Facebook](https://facebook.com/xylapymelody)
