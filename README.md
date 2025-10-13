@@ -3,6 +3,4 @@ This website was made with the intent of being a link farm and additionally is a
 
 I am currently interested in software development, with my main languages being HTML5, JavaScript, and CSS.
 
-![HTML5](IMG_8453.png)
-![JavaScript](IMG_8454.png)
-![CSS](IMG_8455.png)
+<img src="IMG_8453.png" width="132"><img src="IMG_8454.png" width="132"><img src="IMG_8455.png" width="132">
