@@ -1,11 +1,11 @@
 # Introduction
-will be used for something very soon
+they/any
+
+im need i b true to myself
+hit DAT calc smoove it off
 
 # Links
-- [𝕏 (f.k.a. Twitter)](https://x.com/@Xylapy)
-- [Facebook](https://facebook.com/xylapymelody)
-- [Substack](https://xylapy.substack.com)
+- [twt](https://x.com/@xylapy)
 
-# whatever section
-- [Get your choices in and select an option in this poll!!](https://xylapy.substack.com/p/dumpster)
+# dat whatever
 - fork repo if u wanna add whatever
