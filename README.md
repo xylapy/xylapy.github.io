@@ -1,8 +1,7 @@
 # Introduction
 they/any
 
-im need i b true to myself
-hit DAT calc smoove it off
+im need i b true to myself<br>hit DAT calc smoove it off
 
 # Links
 - [twt](https://x.com/@xylapy)
