@@ -1,11 +1,9 @@
 # Introduction
 its a headache evd
 
-they/any city
+im need 2 b true to myself<br>hit DAT calc smoove it off
 
-im need i b true to myself<br>hit DAT calc smoove it off
-
-i have regrets
+i regrettin
 
 # Links
 - [twt](https://x.com/@xylapy)
